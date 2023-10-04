@@ -1,0 +1,8 @@
+node_modules
+url_shortener_app/shortener_app/__pychache__
+__pychache__
+venv
+venv
+shortener.db
+.env
+.pyc
